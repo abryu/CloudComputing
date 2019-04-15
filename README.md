@@ -7,13 +7,13 @@
 
 ## Source Code
 * registration
-    * https://github.com/abryu/eureka-zuul
+    * https://github.com/abryu/cc-eureka
 * zuul
     * https://github.com/abryu/cc-zuul
 * auth
-    * https://github.com/abryu/auth-zuul
+    * https://github.com/abryu/cc-auth
 * vm
-    * https://github.com/abryu/vm-zuul
+    * https://github.com/abryu/cc-vm
 
 ## Infrastucture
 
